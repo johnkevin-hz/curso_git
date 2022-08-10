@@ -2,7 +2,7 @@
 Apuntes del curso GIT
 
 
-ls - para ver directorio
+ls - para ver directorio ###################
 git init - para inicializar repositorio git
 git status - ver el estado de nuestros archivos
 git add - para agregar un archivo al staging area
